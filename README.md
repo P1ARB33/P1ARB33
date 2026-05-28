@@ -7,6 +7,7 @@ I'm an application development student at RRC Polytech eager to build projects t
 ## Currently Learning
 
 Here are the current things I'm learning to expand my skillset:
+
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Technical Skills

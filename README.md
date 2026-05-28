@@ -6,9 +6,12 @@ I'm an application development student at RRC Polytech eager to build projects t
 
 ## Currently Learning
 
+Here are the current things I'm learning to expand my skillset:
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Technical Skills
+
+The following listed below are skills that I am proficient in at best and familiar with at worst. As a student and developer in an ever-changing tech world, I acknowledge that my repertoire will also rapidly change. Therefore, what you see below are the _skills I have as of **May 2026**_.
 
 ### Languages
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)

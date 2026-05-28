@@ -1,6 +1,6 @@
 <img width="3168" height="792" alt="LinkedIn Cover - 3" src="https://github.com/user-attachments/assets/3633c2f6-37c7-4c5a-ad0a-bc9d135c75a9" />
 
-# About Me
+## About Me
 
 I'm an application development student at RRC Polytech eager to build projects that expand my skillset. My profile may have repositories from my academic projects (don't worry, I've gotten an A+ on them 😉) as well as personal projects to apply what I learn outside the classroom. Feel free to look around!
 

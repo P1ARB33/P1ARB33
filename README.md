@@ -4,6 +4,8 @@
 
 I'm an application development student at RRC Polytech eager to build projects that expand my skillset. My profile has repositories from my academic projects (don't worry, I've gotten an A+ on them 😉) as well as personal projects to apply what I learn outside the classroom. Feel free to look around!
 
+[Academic Capstone Projects(https://github.com/stars/P1ARB33/lists/rrc-ad-d-capstones) | [Hackathon Repos](https://github.com/stars/P1ARB33/lists/hackathons) | [Personal Projects](https://github.com/stars/P1ARB33/lists/personal-projects)
+
 ## Currently Learning
 
 Here are the current things I'm learning to expand my skillset:

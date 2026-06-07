@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an application development student at RRC Polytech eager to build projects that expand my skillset. My profile may have repositories from my academic projects (don't worry, I've gotten an A+ on them 😉) as well as personal projects to apply what I learn outside the classroom. Feel free to look around!
+I'm an application development student at RRC Polytech eager to build projects that expand my skillset. My profile has repositories from my academic projects (don't worry, I've gotten an A+ on them 😉) as well as personal projects to apply what I learn outside the classroom. Feel free to look around!
 
 ## Currently Learning
 
